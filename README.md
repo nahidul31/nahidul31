@@ -1,22 +1,34 @@
-<h1 align="center">Hi 👋, I'm Nahidul Islam</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Building modern web experiences with React & JavaScript
-</h3>
+![Banner](https://github.com/user-attachments/assets/fd90afc5-ca1d-4659-936b-06dd8378e0f8)
 
-<p align="center">
+</div>
+
+---
+
+<div align="center">
+
+# Hi 👋, I'm Nahidul Islam
+
+### 💻 Building modern web experiences with React & JavaScript
+
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;UI+Lover;Clean+Code+Enthusiast" />
-</p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Frontend Projects  
-- 🌱 I’m currently learning Next.js & Advanced React  
-- 💬 Ask me about **React, JavaScript, Tailwind CSS, Node.js**  
-- 📫 Reach me: **nahidulislam2383@gmail.com**  
-- ⚡ Fun fact: I love turning designs into real websites 😄  
+```json
+{
+  "🔭 Working on"  : "Frontend Projects",
+  "🌱 Learning"    : "Next.js & Advanced React",
+  "💬 Ask me about": "React, JavaScript, Tailwind CSS, Node.js",
+  "📫 Reach me"    : "nahidulislam2383@gmail.com",
+  "⚡ Fun fact"     : "I love turning designs into real websites 😄"
+}
+` ` `
 
 ---
 
@@ -41,21 +53,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
 
-## 🎯 Featured Banner
+<div align="center">
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/fd90afc5-ca1d-4659-936b-06dd8378e0f8" width="100%" />
-</p>
+✨ Thanks for visiting! ✨
 
----
+</div>
+```
 
-## ✨ Thanks for visiting!
+**`YOUR_USERNAME`** জায়গায় তোমার GitHub username বসিয়ে দাও — stats কাজ করবে। ব্যস!
