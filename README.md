@@ -20,15 +20,13 @@
 
 ## 🚀 About Me
 
-```json
-{
-  "🔭 Working on"  : "Frontend Projects",
-  "🌱 Learning"    : "Next.js & Advanced React",
-  "💬 Ask me about": "React, JavaScript, Tailwind CSS, Node.js",
-  "📫 Reach me"    : "nahidulislam2383@gmail.com",
-  "⚡ Fun fact"     : "I love turning designs into real websites 😄"
-}
-` ` `
+| | |
+|---|---|
+| 🔭 Working on | Frontend Projects |
+| 🌱 Learning | Next.js & Advanced React |
+| 💬 Ask me about | React, JavaScript, Tailwind CSS, Node.js |
+| 📫 Reach me | nahidulislam2383@gmail.com |
+| ⚡ Fun fact | I love turning designs into real websites 😄 |
 
 ---
 
@@ -66,6 +64,3 @@
 ✨ Thanks for visiting! ✨
 
 </div>
-```
-
-**`YOUR_USERNAME`** জায়গায় তোমার GitHub username বসিয়ে দাও — stats কাজ করবে। ব্যস!
